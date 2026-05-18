@@ -12,7 +12,7 @@ Web app educativa installabile su iPhone tramite Safari.
 5. Salva
 
 URL finale:
-https://TUO_USERNAME.github.io/SuperSonicWeb/
+https://ezioviani.github.io/SuperSonicWeb/
 
 ## Installazione su iPhone
 
