@@ -1,0 +1,9 @@
+
+{
+  "name": "SuperSonic",
+  "short_name": "SuperSonic",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
